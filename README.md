@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently learning data structure and algorithm and problem solving using python 
 - 💞️ I’m looking to collaborate on project development using python
-- 📫 How to reach through linkedin Jai Golande www.linkedin.com/in/jai-golande-ab8290184
+- 📫 You can contact me via linkedin Jai Golande www.linkedin.com/in/jai-golande-ab8290184
 
 
 <!---
